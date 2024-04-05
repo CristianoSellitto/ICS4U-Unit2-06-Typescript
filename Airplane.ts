@@ -11,7 +11,7 @@ export class Airplane {
   // Class variables
   protected speed: number // Current speed of the airplane
 
-  // Creates the base airplaine
+  // Creates the base airplane
   public constructor() {
   }
 
